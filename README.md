@@ -94,7 +94,7 @@ Asegúrate de tener el [SDK de Flutter](https://flutter.dev/docs/get-started/ins
 
 1.  **Clona el repositorio:**
     ```sh
-    git clone [https://github.com/tu-usuario/Code4Health.git](https://github.com/tu-usuario/Code4Health.git)
+    git clone https://github.com/Daavid-Anaya/code4health.git
     ```
 2.  **Navega al directorio del proyecto:**
     ```sh
